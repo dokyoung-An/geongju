@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node5" appversion="7.0.6" apprev="20004">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3600" overlap="1" width="3600" levelbias="0.400" levelingroll="0">
+      <level height="3600" predecode="0" preload="0" width="3600"/>
+      <level height="1800" predecode="0" preload="0" width="1800"/>
+      <level height="900" predecode="0" preload="0" width="900"/>
+      <level height="450" predecode="1" preload="1" width="450"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="-9.11956" fov="117.015" pan="-0.60282" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" fovstereographic="330" pan="360" scaletofit="1"/>
+    </view>
+    <userdata altitude="61.52" copyright="" description="" comment="" customnodeid="" datetime="2023. 11. 2. 오후 1:40" info="" latitude="35.828281" heading="0" title="저층부" source="" nodeid="node1" longitude="129.214260" tags="경주" author=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" textcolor="0x000000" wordwrap="1" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" width="180" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media>
+      <image tilt="-5.580" rotz="0.000" clickmode="0" pan="-15.030" handcursor="0" rotx="-20.000" height="197" fov="24.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="395">
+        <source url="media/4..png"/>
+      </image>
+      <image tilt="-1.090" rotz="0.000" clickmode="0" pan="-63.820" handcursor="0" rotx="0.000" height="197" fov="16.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="274">
+        <source url="media/1..png"/>
+      </image>
+      <image tilt="1.110" rotz="0.000" clickmode="0" pan="-77.330" handcursor="0" rotx="-10.000" height="197" fov="17.000" stretch="1.000" roty="13.000" id="문화재" popbackmode="0" hidepinned="0" width="303">
+        <source url="media/10..png"/>
+      </image>
+      <image tilt="-5.460" rotz="0.000" clickmode="0" pan="-331.000" handcursor="0" rotx="-18.000" height="197" fov="17.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="277">
+        <source url="media/17..png"/>
+      </image>
+      <image tilt="-0.810" rotz="0.000" clickmode="0" pan="-4.660" handcursor="0" rotx="-9.000" height="197" fov="16.000" stretch="1.000" roty="-10.000" id="문화재" popbackmode="0" hidepinned="0" width="303">
+        <source url="media/9..png"/>
+      </image>
+      <image tilt="0.870" rotz="0.000" clickmode="0" pan="-335.180" handcursor="0" rotx="-12.000" height="197" fov="19.000" stretch="1.000" roty="-6.000" id="기관" popbackmode="0" hidepinned="0" width="415">
+        <source url="media/19..png"/>
+      </image>
+      <image tilt="1.260" rotz="0.000" clickmode="0" pan="-312.660" handcursor="0" rotx="0.000" height="197" fov="13.000" stretch="1.000" roty="0.000" id="교육" popbackmode="0" hidepinned="0" width="336">
+        <source url="media/12..png"/>
+      </image>
+      <image tilt="1.890" rotz="1.000" clickmode="0" pan="-325.760" handcursor="0" rotx="0.000" height="197" fov="16.000" stretch="1.000" roty="-17.000" id="교통" popbackmode="0" hidepinned="0" width="336">
+        <source url="media/21..png"/>
+      </image>
+      <image tilt="4.830" rotz="0.000" clickmode="0" pan="-297.070" handcursor="0" rotx="0.000" height="197" fov="9.000" stretch="1.000" roty="0.000" id="자연" popbackmode="0" hidepinned="0" width="253">
+        <source url="media/image-5.png"/>
+      </image>
+      <image tilt="5.620" rotz="0.000" clickmode="0" pan="-18.450" handcursor="0" rotx="0.000" height="197" fov="12.000" stretch="1.000" roty="0.000" id="자연" popbackmode="0" hidepinned="0" width="253">
+        <source url="media/image-7.png"/>
+      </image>
+      <image tilt="5.160" rotz="1.000" clickmode="0" pan="-27.320" handcursor="0" rotx="0.000" height="197" fov="10.000" stretch="1.000" roty="0.000" id="Element01" popbackmode="0" hidepinned="0" width="253">
+        <source url="media/image-9.png"/>
+      </image>
+    </media>
+    <transition delay="none" zoomin="0" blendtime="1" zoomspeed="2" enabled="1" zoomfov="40" zoomafterinfov="140" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomafteroutfov="40" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" zoomcentercursor="1" simulatemass="1" invertwheel="0" rubberband="0" contextvr="1" hideabout="0" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3600" overlap="1" width="3600" levelbias="0.400" levelingroll="0">
+      <level height="3600" predecode="0" preload="0" width="3600"/>
+      <level height="1800" predecode="0" preload="0" width="1800"/>
+      <level height="900" predecode="0" preload="0" width="900"/>
+      <level height="450" predecode="1" preload="1" width="450"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="-16.5149" fov="136.926" pan="-7.49354" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fov="140" fovstereographic="330" pan="360" scaletofit="1"/>
+    </view>
+    <userdata altitude="263.42" copyright="" description="" comment="" customnodeid="" datetime="2023. 11. 2. 오후 1:45" info="" latitude="35.828281" heading="0" title="고층부" source="" nodeid="node5" longitude="129.214263" tags="경주" author=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" textcolor="0x000000" wordwrap="1" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" width="180" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media>
+      <image tilt="-31.060" rotz="0.000" clickmode="0" pan="-64.730" handcursor="0" rotx="-47.000" height="100" fov="13.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="100">
+        <source url="media/1..png"/>
+      </image>
+      <image tilt="-13.920" rotz="0.000" clickmode="0" pan="-19.340" handcursor="0" rotx="0.000" height="197" fov="8.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="274">
+        <source url="media/2. .png"/>
+      </image>
+      <image tilt="-23.120" rotz="0.000" clickmode="0" pan="-351.720" handcursor="0" rotx="-27.000" height="197" fov="15.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="303">
+        <source url="media/9..png"/>
+      </image>
+      <image tilt="-12.120" rotz="0.000" clickmode="0" pan="-47.160" handcursor="0" rotx="-23.000" height="197" fov="12.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="308">
+        <source url="media/image.png"/>
+      </image>
+      <image tilt="-34.160" rotz="0.000" clickmode="0" pan="-30.860" handcursor="0" rotx="-42.000" height="197" fov="20.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="395">
+        <source url="media/4..png"/>
+      </image>
+      <image tilt="-9.710" rotz="0.000" clickmode="0" pan="-338.240" handcursor="0" rotx="0.000" height="100" fov="5.000" stretch="0.740" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="100">
+        <source url="media/5..png"/>
+      </image>
+      <image tilt="-12.600" rotz="0.000" clickmode="0" pan="-344.150" handcursor="0" rotx="-22.000" height="197" fov="7.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="298">
+        <source url="media/6..png"/>
+      </image>
+      <image tilt="-7.820" rotz="0.000" clickmode="0" pan="-47.670" handcursor="0" rotx="-12.000" height="100" fov="6.000" stretch="0.920" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="100">
+        <source url="media/7..png"/>
+      </image>
+      <image tilt="-7.220" rotz="0.000" clickmode="0" pan="-75.230" handcursor="0" rotx="-18.000" height="100" fov="9.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="100">
+        <source url="media/8..png"/>
+      </image>
+      <image tilt="-16.600" rotz="0.000" clickmode="0" pan="-73.470" handcursor="0" rotx="-14.000" height="197" fov="10.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="303">
+        <source url="media/10..png"/>
+      </image>
+      <image tilt="-41.480" rotz="0.000" clickmode="0" pan="-330.960" handcursor="0" rotx="-35.000" height="197" fov="9.000" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="277">
+        <source url="media/17..png"/>
+      </image>
+      <image tilt="-9.310" rotz="0.000" clickmode="0" pan="-309.230" handcursor="0" rotx="0.000" height="197" fov="12.000" stretch="1.000" roty="0.000" id="교육" popbackmode="0" hidepinned="0" width="340">
+        <source url="media/12..png"/>
+      </image>
+      <image tilt="-10.680" rotz="0.000" clickmode="0" pan="-296.130" handcursor="0" rotx="0.000" height="197" fov="8.000" stretch="1.000" roty="0.000" id="교육" popbackmode="0" hidepinned="0" width="289">
+        <source url="media/14..png"/>
+      </image>
+      <image tilt="-18.370" rotz="2.000" clickmode="0" pan="-330.200" handcursor="0" rotx="-9.000" height="197" fov="9.000" stretch="1.000" roty="17.000" id="기관" popbackmode="0" hidepinned="0" width="410">
+        <source url="media/19..png"/>
+      </image>
+      <image tilt="-19.880" rotz="0.000" clickmode="0" pan="-321.820" handcursor="0" rotx="-20.000" height="197" fov="5.000" stretch="1.000" roty="0.000" id="기관" popbackmode="0" hidepinned="0" width="289">
+        <source url="media/15..png"/>
+      </image>
+      <image tilt="-8.380" rotz="0.000" clickmode="0" pan="-322.870" handcursor="0" rotx="0.000" height="100" fov="4.000" stretch="1.000" roty="0.000" id="교육" popbackmode="0" hidepinned="0" width="100">
+        <source url="media/11..png"/>
+      </image>
+      <image tilt="-8.960" rotz="0.000" clickmode="0" pan="-26.710" handcursor="0" rotx="-8.000" height="197" fov="5.000" stretch="1.000" roty="0.000" id="교육" popbackmode="0" hidepinned="0" width="340">
+        <source url="media/13..png"/>
+      </image>
+      <image tilt="-15.110" rotz="0.000" clickmode="0" pan="-298.300" handcursor="0" rotx="0.000" height="197" fov="6.000" stretch="1.000" roty="0.000" id="기관" popbackmode="0" hidepinned="0" width="413">
+        <source url="media/16..png"/>
+      </image>
+      <image tilt="-10.480" rotz="0.000" clickmode="0" pan="-16.960" handcursor="0" rotx="-17.000" height="100" fov="6.000" stretch="1.000" roty="0.000" id="기관" popbackmode="0" hidepinned="0" width="100">
+        <source url="media/19..png"/>
+      </image>
+      <image tilt="-45.370" rotz="5.000" clickmode="0" pan="-23.600" handcursor="0" rotx="0.000" height="1632" fov="46.240" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="1968">
+        <source url="media/image-1.png"/>
+      </image>
+      <image tilt="-23.090" rotz="0.000" clickmode="0" pan="-26.110" handcursor="0" rotx="0.000" height="1520" fov="69.240" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="3168">
+        <source url="media/image-2.png"/>
+      </image>
+      <image tilt="-12.130" rotz="0.000" clickmode="0" pan="12.520" handcursor="0" rotx="0.000" height="608" fov="47.810" stretch="1.000" roty="0.000" id="문화재" popbackmode="0" hidepinned="0" width="2032">
+        <source url="media/image-3.png"/>
+      </image>
+      <image tilt="-24.410" rotz="-23.000" clickmode="0" pan="60.770" handcursor="0" rotx="0.000" height="832" fov="70.380" stretch="1.000" roty="0.000" id="교통" popbackmode="0" hidepinned="0" width="3232">
+        <source url="media/image-4.png"/>
+      </image>
+      <image tilt="-13.680" rotz="10.000" clickmode="0" pan="-317.520" handcursor="0" rotx="-18.000" height="197" fov="15.000" stretch="1.000" roty="23.000" id="교통" popbackmode="0" hidepinned="0" width="336">
+        <source url="media/21..png"/>
+      </image>
+      <image tilt="1.110" rotz="0.000" clickmode="0" pan="-316.450" handcursor="0" rotx="0.000" height="197" fov="12.000" stretch="1.000" roty="0.000" id="자연" popbackmode="0" hidepinned="0" width="253">
+        <source url="media/image-5.png"/>
+      </image>
+      <image tilt="2.530" rotz="0.000" clickmode="0" pan="-12.650" handcursor="0" rotx="0.000" height="197" fov="11.000" stretch="1.000" roty="0.000" id="자연" popbackmode="0" hidepinned="0" width="253">
+        <source url="media/image-7.png"/>
+      </image>
+      <image tilt="2.240" rotz="0.000" clickmode="0" pan="-22.870" handcursor="0" rotx="0.000" height="197" fov="11.000" stretch="1.000" roty="0.000" id="자연" popbackmode="0" hidepinned="0" width="253">
+        <source url="media/image-9.png"/>
+      </image>
+      <image tilt="-12.680" rotz="3.000" clickmode="0" pan="-326.600" handcursor="0" rotx="-20.000" height="197" fov="17.000" stretch="1.000" roty="15.000" id="생활" popbackmode="0" hidepinned="0" width="415">
+        <source url="media/image-11.png"/>
+      </image>
+    </media>
+    <transition delay="none" zoomin="0" blendtime="1" zoomspeed="2" enabled="1" zoomfov="40" zoomafterinfov="140" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomafteroutfov="40" zoomout="0" softedge="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" zoomcentercursor="1" simulatemass="1" invertwheel="0" rubberband="0" contextvr="1" hideabout="0" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" description="" title="" comment="" tags="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
